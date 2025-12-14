@@ -1,4 +1,4 @@
-# til
+# til　学んだことをまとめる
 ##HTML
 - [`<ul><li><ol>`のタグについて](html,scc,javascript/<ul><li><ol>のタグについて.md)
 
