@@ -17,4 +17,4 @@
 - [map()関数について](html,scc,javascript/map()関数について.md)
 
 ## PHP
-- [配列を繰り返し処理で] ( html,scc,javascript/PHP 配列を繰り返し処理で.md)
+- [配列を繰り返し処理で] (html,scc,javascript/PHP 配列を繰り返し処理で.md)
